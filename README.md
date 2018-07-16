@@ -1,5 +1,5 @@
-# bootstrap-site
-basic website using bootstrap
+# Bootstrap-site
+Basic Website using Bootstrap Framework.
 
 ![screenshot1](https://user-images.githubusercontent.com/39097773/42729304-f5ccc840-8790-11e8-9f4e-856e80d23c91.PNG)
 
